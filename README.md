@@ -16,9 +16,6 @@
 + stream-lua-nginx module v0.0.11
  	> 官网: https://github.com/openresty/stream-lua-nginx-module  
 	> 命令: `git clone -b v0.0.11 https://github.com/openresty/stream-lua-nginx-module.git`
-+ stream-lua-nginx module v0.0.11
- 	> 官网: https://github.com/openresty/stream-lua-nginx-module  
-	> 命令: `git clone -b v0.0.11 https://github.com/openresty/stream-lua-nginx-module.git`
 + lua-resty-core v0.1.23
  	> 官网: https://github.com/openresty/lua-resty-core  
 	> 命令: `git clone -b v0.1.23 https://github.com/openresty/lua-resty-core.git`
